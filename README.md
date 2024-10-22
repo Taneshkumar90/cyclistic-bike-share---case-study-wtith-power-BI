@@ -68,6 +68,8 @@ Lily Moreno (director of marketing and my manager) has assigned me the first que
    - Import all data to Power BI
    - Load and merg all 13 tables into a single file
       - I made sure all the data sets have the same number of columns and also the name of each columns are the same before merging it all together
+    
+## PROCESS
  
 
 
