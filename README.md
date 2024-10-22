@@ -18,7 +18,7 @@
     -   Share
 
      -  Act.
- Scenerio
+** Scenerio**
 
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data.
 
@@ -70,6 +70,45 @@ Lily Moreno (director of marketing and my manager) has assigned me the first que
       - I made sure all the data sets have the same number of columns and also the name of each columns are the same before merging it all together
     
 ## PROCESS
- 
+- **Cleaning up data and adding data to prepare for analysis**
 
+### Key tasks
+
+- 1: Check the data for errors.
+
+- 2: Choose your tools.
+
+- 3: Transform the data so you can work with it effectively.
+
+- 4: Document the cleaning process.
+
+### Deliverables
+
+- 1: Documentation of any cleaning or manipulation of data.
+  - I inspected the new table that has been created by the following steps
+    - 1: Open your **Transform data** page and create a column which is named ride_length.Calculate the length of each ride by subtracting the column started_at from the column ended_at (for
+ example, =[ended_at]-[started_at]) and format as **duration**  deleted all negative or zero duration rows.
+    - 2:  Create a column called day_of_week, and calculate the day of the week that each ride
+ started using the WEEKDAY command(for example, WEEKDAY([started_at])).
+ Format as text.
+- 2: Deleted all duplicate data by selected all.
+- 3:  Proceed to the analyze step.
+
+## ANALYZE
+
+All the data have been strored appropriately and has been prepared for analysis, so they are ready for exploration.
+### Key tasks
+
+Aggregate your data so it’s useful and accessible.
+Organize and format your data.
+Perform calculations.
+Identify trends and relationships.
+### Deliverables
+
+A summary of your analysis
+
+Visualise the **distribution of casual riders and member rider** by py chart
+
+![Screenshot 2024-10-21 210123](https://github.com/user-attachments/assets/689daeb3-7fc3-420b-9e1d-d1fd614b53db)
+- From the above graph, we can observe that there are more member riders compared to casual rides based on the ride count.
 
