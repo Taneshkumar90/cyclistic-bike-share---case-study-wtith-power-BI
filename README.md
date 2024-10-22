@@ -173,5 +173,51 @@ A summary of your analysis
 <p align="center">
   <img src="https://github.com/user-attachments/assets/040b484a-901d-4303-8916-6dbdd4668805" alt="Average ride legth of riders" width="800">
 </p>
+
 - Its clear casual riders spend  almost  time on bike to ride. 
 
+
+## SHARE
+
+**This phase involves using visualization to share my findings and can be done by presentation**.
+
+### Key tasks
+
+- 1: Determine the best way to share your findings.
+
+- 2: Create effective data visualizations.
+
+- 3: Present your findings.
+
+- 4: Ensure your work is accessible.
+
+### Deliverables
+
+Supporting visualizations and key findings
+
+
+Your top 3 recommendations based on your analysis
+
+## ACT
+
+This phase will be carried out by the executive team, Director of Marketing (Lily Moreno) and the Marketing Analytics team based on my analysis.
+
+### Conclusion
+
+- 1: Members have more bikes compared to casual riders.
+
+- 2: We have more members riding in all months compared to casual riders.
+
+- 3: Casual riders travel for a longer time period.
+- 4: Since Members ride more throughout the entire weekday while the casual riders also have a high ride record during the weekends(Saturday and Sunday) compared to the other days of the week.
+
+
+### Deliverable
+
+- Our top 3 recommendations based on your analysis
+
+   - 1: Since casual riders are  more popular on the weekends, we can consider having a weekend membership option.
+   - 2: We can take the Top 20 starting stations and if a casual rider leaves from it, send them an ad for membership. We also market to casual riders who finish at the Top 20 ending stations.
+   - 3: Host fun biking competitions with prizes at intervals for casual riders on the weekends. Since there are lot of members on weekends, this will also attract them to get a membership.
+ 
+### Thank you for giving your valuable to my project.
