@@ -64,3 +64,10 @@ Lily Moreno (director of marketing and my manager) has assigned me the first que
 
 - 1: A description of all data sources used
    - The main source of all the data used was provided by the [Cyclistic Company](https://divvy-tripdata.s3.amazonaws.com/index.html).
+   - Download and save all Data in a folder
+   - Import all data to Power BI
+   - Load and merg all 13 tables into a single file
+      - I made sure all the data sets have the same number of columns and also the name of each columns are the same before merging it all together
+ 
+
+
