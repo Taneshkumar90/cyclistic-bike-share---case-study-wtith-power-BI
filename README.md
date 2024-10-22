@@ -45,4 +45,22 @@ Lily Moreno (director of marketing and my manager) has assigned me the first que
 
 - 1: A clear statement of the business task
    - To find the differences between the casual riders and annual members
-  
+
+## PREPARE
+
+- I will use Cyclistic’s historical trip data to analyze and identify trends.The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). Datasets are available here [link](https://divvy-tripdata.s3.amazonaws.com/index.html).
+### Key tasks
+
+   - 1: Download data and store it appropriately.
+       - Data has been downloaded and copies have been stored securely on my computer.
+   - 2: Identify how it’s organized.
+       - The data is in CSV (comma-separated values) format, and there are a total of 13 columns.
+   - 3: Sort and filter the data.
+      - For this analysis, I will be using data for the year 2019 and 2020.
+   - 4: Determine the credibility of the data.
+       - For the purposes of this case study, the datasets are appropriate and will enable me to answer the business questions. The data has been made available by Motivate International Inc. This is public data that I can use to explore how different customer types are using Cyclistic bikes. But data-privacy issues will prohibit me from using rider’s personally identifiable information and this will prevent me from determining if riders have purchased multiple single passes. All ride ids are unique.
+
+### Deliverable
+
+- 1: A description of all data sources used
+   - The main source of all the data used was provided by the [Cyclistic Company](https://divvy-tripdata.s3.amazonaws.com/index.html).
