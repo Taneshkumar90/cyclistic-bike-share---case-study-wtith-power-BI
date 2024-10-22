@@ -107,8 +107,51 @@ Identify trends and relationships.
 
 A summary of your analysis
 
-Visualise the **distribution of casual riders and member rider** by py chart
+### Visualise the **distribution of casual riders and member rider** by py chart
 
-![Screenshot 2024-10-21 210123](https://github.com/user-attachments/assets/689daeb3-7fc3-420b-9e1d-d1fd614b53db)
+- <p align="center">
+  <img src="https://github.com/user-attachments/assets/689daeb3-7fc3-420b-9e1d-d1fd614b53db" alt="HR Dashboard" width="400">
+</p>
+
+
 - From the above graph, we can observe that there are more member riders compared to casual rides based on the ride count.
+
+### Visualise the **distribution of ride duration b/w casual riders and member rider** by line chart
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a063467-f2ad-4e8c-8a18-3fc1177cc59e" alt="ride_length distribution b/w casual and memeber Dashboard" width="800">
+</p>
+
+
+
+- Here we can see on **saturday** casual riders are on peak in  spending time. 
+- On thursday and wednesday member riders are on peak in spending time.
+- We also can observe that when member riders duration increase and simultanously casual riders duration decrease and vice-versa.
+
+### Visualise the **number of rides b/w casual riders and member rider** on the basis of  different bikes type by pi-chart
+  ![image](https://github.com/user-attachments/assets/af4044d4-344c-4680-9661-a5fb87e45678)
+
+- From given charts we can see that docked bike is  used only by casual member
+- Number of rides on docked bikes is least comparison to others
+
+
+
+
+  
+
+
+
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/032e74a5-8cd1-4acf-b5c8-3ab4e6564116" alt="ride_length distribution b/w casual and memeber Dashboard" width="600">
+</p>
+
+
+
+
+
+
+
 
