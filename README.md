@@ -220,4 +220,4 @@ This phase will be carried out by the executive team, Director of Marketing (Lil
    - 2: We can take the Top 20 starting stations and if a casual rider leaves from it, send them an ad for membership. We also market to casual riders who finish at the Top 20 ending stations.
    - 3: Host fun biking competitions with prizes at intervals for casual riders on the weekends. Since there are lot of members on weekends, this will also attract them to get a membership.
  
-### Thank you for giving your valuable to my project.
+### Thank you for giving your valuable time to my project.
